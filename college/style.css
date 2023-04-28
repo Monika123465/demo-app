@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    line-height: 25px;
+    align-items: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    color: #003266;
+}
+
+.years img {
+    width: 100%;
+}
+
+.years {
+    width: 40%;
+    margin-left: 350px;
+
+}
+
+.G20 img {
+    width: 40%;
+}
+
+.bhimrao {
+    width: 70%;
+
+    margin: auto;
+    text-align: center;
+}
+.home{
+    height:60px;
+    color: white;
+    background-color: #003266;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap:30px;
+
+}
+.home div:nth-child(1){
+    margin-left: 350px;
+}
+.header img{
+    width:100%;
+    height: 500px;
+}
+.events{
+    width: 70%;
+    border: 1px solid green;
+    display: flex;
+    margin: auto;
+    height: 30px;
+    text-align: center;
+    margin-top:20px;
+}
