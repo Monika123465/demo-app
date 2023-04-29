@@ -51,11 +51,171 @@
     height: 500px;
 }
 .events{
-    width: 70%;
-    border: 1px solid green;
+    width: 60%;
+    border: 1px solid  #003266;
     display: flex;
     margin: auto;
     height: 30px;
-    text-align: center;
+    gap: 10px;
     margin-top:20px;
+    align-items: center;
+    background-color: #f7f7f7;
+}
+.upcoming{
+    width: 200px;
+    text-align: center;
+    background-color: #003266 ;
+    color: white;
+    height: 30px;
+    
+}
+.upcoming p{
+    margin-top:5px;
+}
+.walk{
+    color: #003266;
+    background-color:transparent;
+}
+hr.solid {
+    border-top: 3px solid #003266;
+    width:100%;
+    
+  }
+.message{
+    width: 60%;
+    margin: auto;
+   padding: 10px;
+    display: flex;
+    gap: 30px;
+   
+}
+.principal img{
+width:100% ;
+
+}
+.principal{
+    width: 30%;
+ 
+    
+}
+.mess{
+    color: #003266;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.warm{
+margin-top: 5px;
+margin-bottom:15px;
+}
+.more{
+    color: red;
+    margin-left:185px;
+    margin-bottom: 5px;
+    
+    width: 90px;
+}
+.image img{
+    width:90%;
+
+}
+.image{
+    width: 40%;
+}
+.brac{
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+.welcome{
+    width: 70%;
+}
+.to{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.dr{
+    font-size: 25px;
+    color: #003266;
+}
+.feb{
+    margin-top: 10px;
+    width:80%;
+}
+.read{
+    color: red;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.type{
+    width:60% ;
+   display: flex;
+    margin: auto;
+    gap: 20px;
+    height: 30px;
+    margin-bottom:40px;
+}
+.facilities{
+    height:30px;
+    width: 300px;
+    margin-top: 20px;
+ background-color: #003266;
+    color: white;
+   
+    
+}
+.facilities p{
+    margin-top:5px;
+    margin-left: 5px;
+    
+  }
+
+.background{
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+.gallary{
+    width: 60%;
+    background-color: #f7f7f7;
+    margin: auto;
+    display: flex;
+    gap: 40px;
+    padding: 5px;
+
+}
+.photo{
+    
+    padding: 5px;
+    color: #003266;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.photo img{
+    width: 100%;
+    height:200px;
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    margin-top:60px ;
+}
+.black{
+    width: 80%;
+    
+    display: flex;
+    margin: auto;
+    padding-top:40px;
+    gap: 60px;
+}
+.staff{
+    
+    padding: 30px;
+}
+.staff h3{
+    margin-bottom: 30px;
+}
+.staff p{
+    margin-top: 10px;
+}
+.black div:nth-child(1){
+    margin-left:150px;
 }
