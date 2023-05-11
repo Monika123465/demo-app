@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    background-color: goldenrod;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 60%;
+    margin: auto;
+    margin-top:50px;
+    color: white;
+    
+}
+
+.ul{
+    
+    margin-bottom: 20px;
+    
+}
+.li{
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.submit{
+    width: 200px;
+    height: 30px;
+    margin-top:40px;
+    margin-bottom: 40px;
+}
+
+
+@media screen and (max-width: 992px) {
+    .list {
+      background-color: blue;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .list {
+      background-color: olive;
+    }
+  }
